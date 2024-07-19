@@ -2,7 +2,7 @@
 
 # Mendelian Inheritance Algorithm for Plant Science students
 
-This project implements a genetic algorithm to simulate the Mendelian inheritance and hybridization process of Plants species. The algorithm introduces the genetic makeup of two wheat species, performs crossover and mutation to produce the genetic makeup of the offspring, and evaluates the fitness of the resulting hybrid.
+This project implements a genetic algorithm to simulate the Mendelian inheritance and hybridization process of Plants species. The algorithm introduces the genetic makeup of two plant species, performs crossover and mutation to produce the genetic makeup of the offspring, and evaluates the fitness of the resulting hybrid.
 
 ## Features
 
